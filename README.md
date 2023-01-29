@@ -2,7 +2,7 @@
 
 ### Scientific Computing with Python, course offered by freecodecamp.org
 
-This is an experiment that calculates probability of drawing whatever color and count of balls you choose from a hat. 
+This is an experiment that calculates probability of drawing any color and amount balls you choose from a hat. 
 
 Instructions for building this project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator
 
